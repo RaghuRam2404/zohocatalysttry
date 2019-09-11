@@ -1,0 +1,11 @@
+{
+  "router": [
+    {
+      "path": "/",
+      "action": "FirstFunction"
+    }
+  ],
+  "connector": [],
+  "name": "FirstFunction",
+  "type": 0
+}
