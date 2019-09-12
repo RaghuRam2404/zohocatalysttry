@@ -4,6 +4,8 @@ import java.util.Random;
 
 public class FirstFunction implements ZCFunction {
     public void runner(Context context, BasicIO basicIO) throws Exception {
+    	
         basicIO.write("Hello From FirstFunction.java from eclipse "+new Random().nextInt(1000));
+        
 	}
 }
