@@ -3,6 +3,9 @@
     {
       "path": "/",
       "action": "FirstFunction"
+    },{
+    	"path": "/authenticate",
+    	"action" : "CheckAuthentication"
     }
   ],
   "connector": [],
